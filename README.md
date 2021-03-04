@@ -1,4 +1,6 @@
-# The goal is to determine the impact of each type of protein which is used to determine the class of mice.
+# 
+
+The goal is to determine the impact of each type of protein which is used to determine the class of mice.
 
 The dataset contains expression levels of 77 proteins measured in the cerebral cortex of eight classes of mice.The 8 classes of mice are divided based on genotype,behaviour and treatment. 
 
